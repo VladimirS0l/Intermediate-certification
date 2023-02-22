@@ -1,0 +1,10 @@
+id: 1  name: Doll  weight: 5  
+id: 1  name: Doll  weight: 5  
+id: 2  name: Robot  weight: 3  
+id: 2  name: Robot  weight: 3  
+id: 2  name: Robot  weight: 3  
+id: 2  name: Robot  weight: 3  
+id: 2  name: Robot  weight: 3  
+id: 2  name: Robot  weight: 3  
+id: 2  name: Robot  weight: 3  
+id: 3  name: PSP  weight: 2  
